@@ -66,6 +66,32 @@ Ensure you have Python 3.7+ and the required libraries installed:
 ```bash
 pip install -r requirements.txt
 ```
+## How to Run
+1. Open the notebook:
+``` bash
+jupyter notebook qa_rag_climate_fever.ipynb
+```
+or use google colab 
+
+2. Follow the steps in the notebook to:
+
+  - Load and preprocess the dataset.
+  - Build the RNN model.
+  - Train and evaluate the model.
+  - Visualize training metrics.
+
+## Dependencies
+- numpy
+- pandas
+- matplotlib
+- nltk
+- tensorflow
+
+Install them using the requirements.txt file.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Acknowledgments
 - The IMDB dataset is widely used for sentiment analysis benchmarks.
 = This project utilizes TensorFlow and Keras for deep learning tasks.
