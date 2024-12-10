@@ -58,4 +58,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 - The IMDB dataset is widely used for sentiment analysis benchmarks.
-= This project utilizes TensorFlow and Keras for deep learning tasks.
+- This project utilizes TensorFlow and Keras for deep learning tasks.
